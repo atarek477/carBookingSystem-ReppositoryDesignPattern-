@@ -1,0 +1,14 @@
+note that
+-part maven write to file exist in resource file not allowed so
+ if we need to write to file we should change location.
+- most of methods on project are void still searching for right way to implement test
+initial              done
+interface            done
+list                 done
+
+dependency injection done but not correct :( cuz we call Dao class not Idao
+but it seem pretty good for now
+
+maven                done  note that we dont need to implement Faker part
+stream               done
+

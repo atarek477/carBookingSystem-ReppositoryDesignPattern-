@@ -1,0 +1,3 @@
+b2db0f6f-8398-4e49-a106-6a92bdb2e9cd,BENZ,false,true
+280ed130-11db-43d0-b5ba-4fc1507d483a,HONDA,false,true
+51e8f646-cd24-45c1-9663-08644bcf5351,TESLA,true,true
